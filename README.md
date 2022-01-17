@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @GGabrielToyo
-- 🌱 I’m a computer student...
+- 🌱 I’m a computer student - UEZO
 - 📫 How to reach me: ggabrieltoyo@gmail.com
