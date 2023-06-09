@@ -17,7 +17,7 @@
         <div class="card green" style="transform: translateY(-15px); cursor: pointer; border-radius: 5px; box-shadow: 7px 7px 13px 0px rgba(50, 50, 50, 0.22); padding: 30px; margin: 20px; width: 400px; transition: all 0.3s ease-out; height: 180px;">
             <h2>📕UERJ:<br> computer student</h2>
             <p style="color: #a3a5ae; font-size: 16px; font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">Course: computer science</p>
-            <p>Period: 4/8</p>
+            <p>Period: 5/8</p>
             <button class="image">📕</button>
         </div>
         <div class="card blue" style="transform: translateY(-15px); cursor: pointer; border-radius: 5px; box-shadow: 7px 7px 13px 0px rgba(50, 50, 50, 0.22); padding: 30px; margin: 20px; width: 400px; transition: all 0.3s ease-out; height: 180px;">
