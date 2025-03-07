@@ -1,5 +1,5 @@
 <h1 align="center">Gabriel Alves Toyo</h1>
-<h3 align="center">Desenvolvedor de Softwares JAVA | Angular</h3>
+<h3 align="center">Desenvolvedor de Softwares Full Stack</h3>
 
 <h3 align="left">Minhas Redes:</h3>
 
